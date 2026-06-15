@@ -1,0 +1,7 @@
+{
+  "name": "matchcast-proxy",
+  "version": "1.0.0",
+  "description": "Sportmonks API proxy for Matchcast World Cup Predictor",
+  "private": true,
+  "engines": { "node": "20.x" }
+}
